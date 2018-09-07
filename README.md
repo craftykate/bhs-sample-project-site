@@ -1,4 +1,4 @@
-# bhs-sample-project-site
+# BHS Sample Project Website
 
 The raw code behind the sample project site for the BHS HTML/CSS tutorial
 
