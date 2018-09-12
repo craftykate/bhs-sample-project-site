@@ -35,6 +35,11 @@ This is ALWAYS a good idea before sending your code out into the wild
 1. **FURTHER TUTORIALS:** Try codecademy for free tutorials on <a href="https://www.codecademy.com/learn/learn-html">HTML</a> and <a href="https://www.codecademy.com/learn/learn-css">CSS</a> to expand your knowledge
 1. **LADIES!** Did you know <a href="https://www.npr.org/sections/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech">women were the first programmers</a>?? In a recent study of over 3 MILLION pull requests on github (peer-reviewed code) the <a href="https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github">code written by women</a> was approved at a higher rate than code written by men. Women make excellent programmers and the tech world needs you! Check out <a href="https://girlswhocode.com/">girlswhocode</a> for more resources just for you!
 
+## Helpful Slides
+
+Difference between margin and padding: <br/>
+<img src="img/margin-vs-padding.png" alt="margin-vs-padding" width="50%">
+
 ## Follow up for Sep 2018 class:
 
 1. **href = “hypertext reference”** Incredibly interesting article on what href stands for (seems like lots of people have wondered this) here: https://tomayko.com/blog/2008/wtf-is-an-href-anyway
