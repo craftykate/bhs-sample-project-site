@@ -37,6 +37,12 @@ This is ALWAYS a good idea before sending your code out into the wild
 
 ## Helpful Slides
 
+Sample website with external css: <br />
+<img src="img/sample-basic-website.png" alt="margin-vs-padding" width="50%">
+
+CSS syntax: <br/>
+<img src="img/css-rules.png" alt="margin-vs-padding" width="50%">
+
 Difference between margin and padding: <br/>
 <img src="img/margin-vs-padding.png" alt="margin-vs-padding" width="50%">
 
