@@ -2,6 +2,12 @@
 
 Companion site to Intro to HTML for BHS. Visit https://craftykate.github.io/bhs-sample-project-site/ to see it live
 
+**Pre-Class Requests:**
+
+- Make a "my-projects" folder on your computer with an "img" folder inside that. Inside the img folder please put screenshots of 2 projects. 
+  - **Tips:** make "my-projects" and the names of your screenshots one word. Name your screenshots something short and meaningful like "penguin-scratch-game.png".
+- Create a GitHub account, check your email and verify your email with them
+
 ## Reset File
 
 <a href="https://meyerweb.com/eric/tools/css/reset/">Eric Meyer's Reset CSS</a> Copy the code in the salmon-colored box and paste it in your reset.css file
