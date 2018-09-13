@@ -1,4 +1,4 @@
-# BHS Sample Project Website
+# Intro to HTML and CSS 
 
 Companion site to Intro to HTML for BHS. Visit https://craftykate.github.io/bhs-sample-project-site/ to see it live
 
