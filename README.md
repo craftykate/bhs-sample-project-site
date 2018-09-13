@@ -1,6 +1,6 @@
 # Intro to HTML and CSS 
 
-Companion site to Intro to HTML for BHS. Visit https://craftykate.github.io/bhs-sample-project-site/ to see it live
+Companion site to my _Intro to HTML and CSS_ unit for BHS. Visit https://craftykate.github.io/bhs-sample-project-site/ to see the site we will be building live.
 
 **Pre-Class Requests:**
 
