@@ -11,6 +11,7 @@ Companion site to Intro to HTML for BHS. Visit https://craftykate.github.io/bhs-
 <a href="http://katescolorpicker.surge.sh/">Color Picker</a> Hover over a color to get rgb and hex codes
 
 ## Temporary "About Me" Pictures
+Don't have a profile pic saved on your computer yet? Use one of these fabulous temporary profile pics I picked out just for you! Copy the link below of the image you want and put that in your image tag's source. <br/>
 
 <img src="https://images.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg" alt="headshot1" height="200"> <img src="https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg" alt="headshot2" height="200"> <img src="https://images.pexels.com/photos/288621/pexels-photo-288621.jpeg" alt="headshot3" height="200">
 
