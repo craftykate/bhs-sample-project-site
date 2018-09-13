@@ -57,7 +57,7 @@ Difference between margin and padding: <br/>
 
 - You can edit your files right in GitHub! When it's time to add a new project you can either edit the index.html file on your computer, save it, then drag it into GitHub just like you did the first time, or you can edit the index.html file in GitHub. Just remember that if you edit a file on GitHub your computer file will be behind.
 - Sometimes it can take a little while for your browser and/or GitHub to update when you make a change. So, if you edit the CSS file to make your background blue it might take 10 minutes for your website to reflect that. This is the downside to editing your files in GitHub - when you edit on your computer you can preview immediately the changes you made in Chrome. 
-- The live link to your site is going to be: USERNAME.github.io/PROJECT-NAME
+- The live link to your site is going to be: USERNAME.github.io/REPOSITORY-NAME
 
 ## Follow up for Sep 2018 class:
 
