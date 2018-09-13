@@ -4,7 +4,7 @@ Companion site to Intro to HTML for BHS. Visit https://craftykate.github.io/bhs-
 
 ## Reset File
 
-<a href="https://meyerweb.com/eric/tools/css/reset/">Eric Meyer's Reset CSS</a>
+<a href="https://meyerweb.com/eric/tools/css/reset/">Eric Meyer's Reset CSS</a> Copy the code in the salmon-colored box and paste it in your reset.css file
 
 ## Color Picker
 
