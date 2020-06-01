@@ -4,7 +4,7 @@ Companion site to my _Intro to HTML and CSS_ unit for BHS. Visit https://craftyk
 
 **Pre-Class Requests:**
 
-- Download VS Code
+- Download VS Code - https://code.visualstudio.com
 - Make a "my-projects" folder on your computer with an "img" folder inside that. Inside the img folder please put screenshots of 2 projects. 
   - **Tips:** make "my-projects" and the names of your screenshots one word. Name your screenshots something short and meaningful like "penguin-scratch-game.png".
 - Create a GitHub account, check your email and verify your email with them
