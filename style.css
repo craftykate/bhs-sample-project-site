@@ -1,0 +1,56 @@
+/* ============ SITE-WIDE ============ */
+body {
+  font-family: sans-serif;
+}
+
+a {
+  color: rgb(255, 81, 0);
+}
+
+a:hover {
+  color: #00AEFF;
+}
+
+.clear {
+  clear: both;
+}
+
+/* ============ HEADER ============ */
+header {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-bottom: 1px solid rgb(0, 174, 255);
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+header nav ul li {
+  display: inline;
+}
+
+/* ============ PROJECTS/ABOUT ME ============ */
+#project-container, #aboutme {
+  margin: 0 auto; /* centers projects div */
+  width: 90%; /* adds space on either side */
+  max-width: 600px; /* keeps div from getting too wide */
+}
+
+.project {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(0, 174, 255);
+}
+
+.project img, #aboutme img {
+  width: 250px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.project h2, #aboutme h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
