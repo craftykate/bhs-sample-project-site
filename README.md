@@ -6,7 +6,7 @@ Companion site to my _Intro to HTML and CSS_ unit for BHS. Visit https://craftyk
 
 - Create a GitHub account, check your email and verify your email with them
 - Take two screenshots of two project (one screenshot each) and name them something meaningful like "penguin_scratch_game.png"
-- (The below are not needed when using repl.it instead of a downloaded IDE)
+- (The below are not needed when using repl.it instead of a downloaded IDE. If using repl, create an account and verify email if needed.)
 - ~~Download VS Code https://code.visualstudio.com~~
 - ~~Make a "my-projects" folder on your computer with an "img" folder inside that. Inside the img folder please put screenshots of 2 projects.~~
   - ~~**Tips:** make "my-projects" and the names of your screenshots one word. Name your screenshots something short and meaningful like "penguin-scratch-game.png".~~
