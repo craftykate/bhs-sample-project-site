@@ -62,7 +62,7 @@ Difference between margin and padding: <br/>
 - Sometimes it can take a little while for your browser and/or GitHub to update when you make a change. So, if you edit the CSS file to make your background blue it might take 10 minutes for your website to reflect that. This is the downside to editing your files in GitHub - when you edit on your computer you can preview immediately the changes you made in Chrome. 
 - The live link to your site is going to be: USERNAME.github.io/REPOSITORY-NAME
 
-## Follow up for Sep 2018 class:
+## Follow up answers for previous classes:
 
 1. **href = “hypertext reference”** Incredibly interesting article on what href stands for (seems like lots of people have wondered this) here: https://tomayko.com/blog/2008/wtf-is-an-href-anyway
 1. To add hover text to an image: <img src=“image.jpg” alt=“sample image” **title=“hi, I should pop up!”** />
